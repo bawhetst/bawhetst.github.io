@@ -1,25 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>whetstone.dev</title>
-    <link>https://www.whetstone.dev/</link>
-    <description>Recent content on whetstone.dev</description>
+    <title>whetstone.me</title>
+    <link>https://www.whetstone.me/</link>
+    <description>Recent content on whetstone.me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 29 Jan 2020 18:46:51 -0500</lastBuildDate>
-    
-	<atom:link href="https://www.whetstone.dev/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About</title>
-      <link>https://www.whetstone.dev/about/</link>
-      <pubDate>Wed, 29 Jan 2020 18:46:51 -0500</pubDate>
-      
-      <guid>https://www.whetstone.dev/about/</guid>
-      <description>Hi, I&amp;rsquo;m Ben Whetstone, a software developer based in the Research Triangle in North Carolina.
-I was a bit of a late bloomer in regards to computer science, having had no exposure to it prior to college. I fell in love with the challenge of taking an abstract idea and defining it in terms that both a computer and other humans can understand. That is the fundamental challenge of computer science which means that there will always be something interesting to work on.</description>
-    </item>
-    
+    <language>en</language><atom:link href="https://www.whetstone.me/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
